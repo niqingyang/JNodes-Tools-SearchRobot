@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: . AbsoluteLayout.jar ant-1.8.1.jar commons-codec-1.4.jar commons-io-1.4.jar commons-lang-2.2.jar commons-logging-1.0.4.jar commons-logging-api-1.0.4.jar log4j-1.2.15.jar swing-layout-1.0.3.jar
+Main-Class: com.jnodes.tools.searchrobot.SearchFrame
+Created-By: niqy@qq.com
+

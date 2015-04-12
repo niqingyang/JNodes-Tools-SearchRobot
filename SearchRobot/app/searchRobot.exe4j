@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="4.2" transformSequenceNumber="1">
+  <directoryPresets config="D:/Project/01 project/01 基础框架/06 我的系统/07 文件检索工具/02 源码/SearchRobot/app/images" />
+  <application name="SearchRobot" distributionSourceDir="D:/Project/01 project/01 基础框架/06 我的系统/07 文件检索工具/02 源码/SearchRobot/app">
+    <languages>
+      <principalLanguage id="en" customLocalizationFile="" />
+    </languages>
+  </application>
+  <executable name="SearchRobot" type="2" iconSet="true" iconFile="D:/Project/01 project/01 基础框架/06 我的系统/07 文件检索工具/02 源码/SearchRobot/app/images/app.ico" executableDir="." redirectStderr="true" stderrFile="error.log" redirectStdout="false" stdoutFile="output.log" failOnStderrOutput="true" executableMode="1" changeWorkingDirectory="true" workingDirectory="." singleInstance="false" serviceStartType="2" serviceDependencies="" serviceDescription="" jreLocation="" executionLevel="asInvoker" checkConsoleParameter="false" amd64="true">
+    <messageSet />
+    <versionInfo include="false" fileVersion="" fileDescription="" legalCopyright="" internalName="" companyName="" productVersion="" />
+  </executable>
+  <splashScreen show="false" autoOff="true" alwaysOnTop="true" width="0" height="0" bitmapFile="" java6SplashScreen="false">
+    <text>
+      <statusLine x="20" y="20" text="" font="Arial" fontSize="8" fontColor="0,0,0" fontWeight="500" />
+      <versionLine x="20" y="40" text="version %VERSION%" font="Arial" fontSize="8" fontColor="0,0,0" fontWeight="500" />
+    </text>
+  </splashScreen>
+  <java mainClass="com.jnodes.tools.searchrobot.SearchFrame" vmParameters="" arguments="" allowVMPassthroughParameters="true" preferredVM="" minVersion="1.5" maxVersion="" allowBetaVM="true" jdkOnly="false">
+    <searchSequence>
+      <registry />
+      <envVar name="JAVA_HOME" />
+      <envVar name="JDK_HOME" />
+    </searchSequence>
+    <classPath>
+      <archive location="./lib/AbsoluteLayout.jar" failOnError="false" />
+      <archive location="./lib/ant-1.8.1.jar" failOnError="false" />
+      <archive location="./lib/commons-io-1.4.jar" failOnError="false" />
+      <archive location="./lib/commons-lang-2.2.jar" failOnError="false" />
+      <archive location="./lib/commons-logging-1.0.4.jar" failOnError="false" />
+      <archive location="./lib/commons-logging-api-1.0.4.jar" failOnError="false" />
+      <archive location="./lib/log4j-1.2.15.jar" failOnError="false" />
+      <archive location="./lib/swing-layout-1.0.3.jar" failOnError="false" />
+      <archive location="./lib/commons-codec-1.4.jar" failOnError="false" />
+      <archive location="./lib/SearchRobot-x64.jar" failOnError="false" />
+    </classPath>
+    <nativeLibraryDirectories />
+  </java>
+  <includedFiles />
+  <unextractableFiles />
+</exe4j>
+

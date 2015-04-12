@@ -1,0 +1,99 @@
+2015-01-15 18:59:40 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)
+2015-01-15 19:00:00 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)
+2015-01-15 19:13:28 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)
+2015-01-15 19:15:10 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)
+2015-01-15 19:24:20 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)
+2015-01-15 19:33:24 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)
+2015-01-15 19:40:21 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)
+2015-01-15 19:40:32 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)
+2015-01-15 19:40:43 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)
+2015-01-15 19:41:00 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)
+2015-01-15 19:53:13 com.cntrust.file.SearchRunnable:188 [ ERROR ] - 解析文件[D:\01 project\01 基础框架\06 我的系统\05 Gephi\gephi-parent\target\gephi-parent-1.0.jar]时发生错误！
+java.util.zip.ZipException: archive is not a ZIP archive
+	at org.apache.tools.zip.ZipFile.positionAtCentralDirectory(ZipFile.java:472)
+	at org.apache.tools.zip.ZipFile.populateFromCentralDirectory(ZipFile.java:313)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:162)
+	at org.apache.tools.zip.ZipFile.<init>(ZipFile.java:123)
+	at com.cntrust.file.SearchRunnable.run(SearchRunnable.java:151)
+	at java.lang.Thread.run(Unknown Source)

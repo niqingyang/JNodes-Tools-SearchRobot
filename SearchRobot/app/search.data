@@ -1,0 +1,7 @@
+file.open.program=C:/Program Files/Notepad++/notepad++.exe
+jad.cmd=D:/01 project/01 基础框架/06 我的系统/07 文件检索工具/02 源码/SearchRobot/app/jad.exe
+extension_1=*.jar,*.class
+content_1=package
+extension_0=*.jar,*.po
+content_0=铅笔
+directory_0=D:/01 project/01 基础框架/06 我的系统/05 Gephi/gephi-parent
