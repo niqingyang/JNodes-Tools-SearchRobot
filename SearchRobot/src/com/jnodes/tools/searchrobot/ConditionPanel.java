@@ -6,44 +6,31 @@
 
 package com.jnodes.tools.searchrobot;
 
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
-import java.awt.event.MouseMotionListener;
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.Enumeration;
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
-import java.util.Properties;
 import java.util.Set;
 import java.util.regex.Pattern;
 
-import javax.swing.ComboBoxModel;
 import javax.swing.JComboBox;
 import javax.swing.JFileChooser;
 import javax.swing.JTextField;
 import javax.swing.LabelCellRenderer;
-import javax.swing.RichComboBoxUI;
 
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang.StringUtils;
 
 import com.jnodes.tools.searchrobot.util.Datas;
-import com.jnodes.tools.searchrobot.util.EncodingUtil;
 import com.jnodes.tools.searchrobot.util.PatternConstructor;
 import com.jnodes.tools.searchrobot.util.SystemConfig;
 
 /**
  * 
- * @author __USER__
+ * 条件面板组件
+ * 
+ * @author 倪庆洋 <niqy@qq.com>
+ *
+ * @date  Apr 12, 2015 4:02:10 PM
+ *
  */
 public class ConditionPanel extends javax.swing.JPanel {
 

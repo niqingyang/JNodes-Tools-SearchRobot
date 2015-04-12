@@ -2,7 +2,6 @@ package com.jnodes.tools.searchrobot;
 
 import java.io.File;
 import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -12,20 +11,25 @@ import javax.swing.JTable;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.FilenameUtils;
-import org.apache.commons.io.IOUtils;
 import org.apache.commons.io.filefilter.FileFilterUtils;
 import org.apache.commons.lang.StringUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.apache.tools.zip.ZipEntry;
-import org.apache.tools.zip.ZipFile;
 
-import com.jnodes.tools.searchrobot.util.Common;
 import com.jnodes.tools.searchrobot.util.EncodingUtil;
 import com.jnodes.tools.searchrobot.util.ZipUtils;
 import com.jnodes.tools.searchrobot.jad.JadDecompiler;
 import com.jnodes.tools.searchrobot.jad.SourceCode;
 
+/**
+ * 
+ * 搜索线程的Runnable
+ * 
+ * @author 倪庆洋 <niqy@qq.com>
+ *
+ * @date  Apr 12, 2015 4:00:57 PM
+ *
+ */
 public class SearchRunnable implements Runnable {
 
 	private static Log log = LogFactory.getLog(SearchRunnable.class);

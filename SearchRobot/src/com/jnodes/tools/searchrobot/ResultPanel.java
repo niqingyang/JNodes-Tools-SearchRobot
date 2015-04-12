@@ -30,7 +30,7 @@ import com.jnodes.tools.searchrobot.jad.SourceCode;
 
 /**
  * 
- * 结果面板
+ * 展示结果的面板组件
  * 
  * @author 倪庆洋 <niqy@qq.com>
  * 

@@ -9,6 +9,15 @@ import java.util.Set;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang.StringUtils;
 
+/**
+ * 
+ * 加载和保存配置的类
+ * 
+ * @author 倪庆洋 <niqy@qq.com>
+ * 
+ * @date Apr 12, 2015 4:04:43 PM
+ * 
+ */
 public class SystemConfig {
 
 	private static Properties properties;
@@ -23,19 +32,19 @@ public class SystemConfig {
 	public static String getProperty(String key) {
 		return properties.getProperty(key);
 	}
-	
-	public static void put(String key, Object value){
+
+	public static void put(String key, Object value) {
 		properties.put(key, value);
 	}
-	
-	public static Object remove(String key){
+
+	public static Object remove(String key) {
 		return properties.remove(key);
 	}
 
 	public static void reload() {
-		
+
 		properties = new Properties();
-		
+
 		try {
 			File file = new File(RootDir, SEARCH_ROBOT_FILENAME);
 			byte[] data = FileUtils.readFileToByteArray(file);

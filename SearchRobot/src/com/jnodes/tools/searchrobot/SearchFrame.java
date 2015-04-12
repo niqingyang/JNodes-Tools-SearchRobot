@@ -29,7 +29,7 @@ import com.jnodes.tools.searchrobot.util.Images;
 
 /**
  * 
- * 搜索
+ * 主程序
  * 
  * @author 倪庆洋 <niqy@qq.com>
  *

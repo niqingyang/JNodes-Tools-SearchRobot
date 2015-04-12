@@ -3,6 +3,15 @@ package com.jnodes.tools.searchrobot.util;
 import java.util.regex.Pattern;
 import java.util.regex.PatternSyntaxException;
 
+/**
+ * 
+ * 此类源于Eclipse中的Search插件
+ * 
+ * @author 倪庆洋 <niqy@qq.com>
+ *
+ * @date  Apr 12, 2015 4:03:47 PM
+ *
+ */
 public class PatternConstructor {
 	private static class ReplaceStringConstructor {
 

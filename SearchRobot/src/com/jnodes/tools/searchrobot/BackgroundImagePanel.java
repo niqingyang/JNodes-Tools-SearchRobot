@@ -6,12 +6,11 @@ import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 
 /**
- * 
  * 绘制背景的JPanel
  * 
- * @author niqy@qq.com
+ * @author 倪庆洋 <niqy@qq.com>
  * 
- * @date 2015-1-15 下午04:32:16
+ * @date Apr 12, 2015 4:05:10 PM
  * 
  */
 public class BackgroundImagePanel extends JPanel {

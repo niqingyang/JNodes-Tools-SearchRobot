@@ -5,6 +5,15 @@ import java.util.ResourceBundle;
 
 import com.jnodes.util.NLS;
 
+/**
+ * 
+ * 国际化的消息
+ * 
+ * @author 倪庆洋 <niqy@qq.com>
+ *
+ * @date  Apr 12, 2015 4:01:56 PM
+ *
+ */
 public class Messages extends NLS {
 
 	private static String baseName = "messages";
