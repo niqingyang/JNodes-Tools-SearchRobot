@@ -1,6 +1,7 @@
 
 作者：niqingyang
 邮箱：niqy@qq.com
+讨论QQ群：107249241
 
 1.SearchRobot是一款用Java开发的文件内容检索工具，开发目的是为了用于快速查找代码、分析代码、阅读代码用的。
 2.SearchRobot程序的同目录下会存在一个search.data的文件来保存搜索的相关配置和历史记录，用户可以自行修改。
