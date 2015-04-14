@@ -40,7 +40,7 @@ public class SearchFrame extends javax.swing.JFrame implements ActionListener, M
 
 	private static final long serialVersionUID = -9136658266346373462L;
 
-	private static final String VERSION = "V1.3";
+	private static final String VERSION = "V1.3.1";
 
 	private ConditionPanel cndPanel;
 	private ResultPanel resultPanel;

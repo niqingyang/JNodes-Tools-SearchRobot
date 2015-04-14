@@ -104,11 +104,12 @@ public class ResultTableModel extends AbstractTableModel {
 		Vector<Object> column = new Vector<Object>();
 		column.add(this.content.size() + 1);
 		column.add(labelName);
-		this.content.add(column);
 		this.fileList.add(file);
+		this.content.add(column);
 	}
 
 	public void removeRow(int row) {
+		this.fileList.remove(row);
 		this.content.remove(row);
 	}
 
@@ -116,11 +117,13 @@ public class ResultTableModel extends AbstractTableModel {
 		for (int i = 0; i < count; i++) {
 			if (this.content.size() > row) {
 				this.content.remove(row);
+				this.fileList.remove(row);
 			}
 		}
 	}
 	
 	public void removeAll(){
+		this.fileList.removeAll(this.fileList);
 		this.content.removeAll(this.content);
 	}
 
